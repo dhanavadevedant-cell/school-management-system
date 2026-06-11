@@ -1,0 +1,19 @@
+# Build/Target folders
+target/
+**/target/
+*.class
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
+
+# Node / Frontend builds
+node_modules/
+**/node_modules/
+build/
+dist/
+
+# System and Temp Files
+*.txt
+.DS_Store
