@@ -1,0 +1,4 @@
+!target/
+school-ui/node_modules/
+school-ui/build/
+.git/
